@@ -2,6 +2,10 @@
 
 This tool uses the Google Page Insights API to provide a page level report of production website front-end performance. Unlike most tools YUI etc, this tool can accept multiple page arguments.
 
+## Local Setup
+
+The tool requires that requests to the Google Page Insights API are made from localhost address so you will need to setup MAMP or similar to run from a local web server.
+
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
