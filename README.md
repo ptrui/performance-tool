@@ -1,3 +1,7 @@
+# PTR Performance UI Template
+
+This tool uses the Google Page Insights API to provide a page level report of production website front-end performance. Unlike most tools YUI etc, this tool can accept multiple page arguments.
+
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
