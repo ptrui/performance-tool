@@ -1,6 +1,36 @@
 @import "settings";
 @import "foundation";
 
+#submit {
+  margin-top:24px;
+}
+
+td.firstCol {
+  vertical-align: top;
+}
+
+.topIssues li li {
+  margin-left: 2em;
+}
+
+span.bold {
+  font-weight: bold;
+}
+
+.graph {
+	margin: 1em 0;
+}
+
+li.veryDetailed {
+	font-size: .7em;
+}
+
+@media print {
+	.intro p, dd.accordion-navigation > a {
+		display: none;
+	}
+}
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
