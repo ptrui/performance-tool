@@ -4,7 +4,8 @@ This tool uses the Google Page Insights API to provide a page level report of pr
 
 ## Local Setup
 
-The tool requires that requests to the Google Page Insights API are made from localhost address so you will need to setup MAMP or similar to run from a local web server.
+1) The tool requires that requests to the Google Page Insights API are made from localhost address so you will need to setup MAMP or similar to run from a local web server.
+2) Also you will need to extract the bower_components.zip and run "compass watch" from the performance-tool directory. As soon as you make a save on any scss file within the performance-tool/scss directory this will generate the css file required
 
 # Foundation Compass Template
 
